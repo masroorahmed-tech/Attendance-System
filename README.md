@@ -182,7 +182,13 @@ Final_Project/
 
 ## 📹 Demo Video
 
-[Link to YouTube demo video will be added here]
+https://youtu.be/6XzPOzijEH0
+
+---
+
+## 📹 Github URL
+
+https://github.com/masroorahmed-tech/Attendance-System.git
 
 ---
 
