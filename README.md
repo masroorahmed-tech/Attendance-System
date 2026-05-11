@@ -111,7 +111,7 @@ Update MySQL credentials in `util/DatabaseConnection.java`:
 ```java
 private static final String DB_URL      = "jdbc:mysql://localhost:3306/attendance_sheet";
 private static final String DB_USER     = "root";
-private static final String DB_PASSWORD = "Masr00r";  // Change to your password
+private static final String DB_PASSWORD = ".......";  // Change to your password
 ```
 
 ### Step 3: Compilation
